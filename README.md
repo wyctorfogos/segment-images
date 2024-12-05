@@ -13,3 +13,5 @@ Para instalar as bibliotecas necessárias antes de rodar o código:
 
 Para rodar o código, digite no terminal:
 `python3 src/main.py`
+
+Nos próximos releases será utilizado o modelo SAM 2.
